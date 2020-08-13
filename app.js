@@ -1,4 +1,3 @@
-require('dotenv').config();
 const { app, PORT } = require('./server');
 require('./database');
 
